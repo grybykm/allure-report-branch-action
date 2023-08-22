@@ -2,10 +2,7 @@
   "links": [
     "..",
     "example-pr",
-    "folder-listing",
-    "main",
-    "parallel-test-1",
-    "parallel-test-2",
-    "test-failure"
+    "git-pull",
+    "main"
   ]
 }

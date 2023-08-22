@@ -3,6 +3,7 @@
     "..",
     "example-pr",
     "folder-listing",
-    "main"
+    "main",
+    "test-failure"
   ]
 }

@@ -3,8 +3,6 @@
     "..",
     "example-pr",
     "git-pull",
-    "main",
-    "parallel-test-1",
-    "parallel-test-2"
+    "main"
   ]
 }
